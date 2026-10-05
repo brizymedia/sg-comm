@@ -1,0 +1,15 @@
+# SG COMM (에스지씨오엠엠)
+
+> 2005년부터 인천 미추홀구에서 행사대행과 무대 · 음향 · 조명 · 영상(LED 전광판) · 행사용품 렌탈을 한 팀이 원스톱으로 하는 통합 이벤트 회사. 대표 이서구. 대표전화 032-441-2249, 연중무휴.
+
+- 주소: 인천광역시 미추홀구 구월로 30, 스페이스이모션 619호
+- 출장 지역: 인천(미추홀 · 연수 · 송도 · 남동 · 부평 · 계양 · 서구 · 중구 · 동구), 서울 · 경기 행사 경험
+- 하는 일: 축제 · 콘서트 · 기공식 · 준공식 · 체육대회 · 야유회 · OT · MT · 시상식 · 송년회 · 전시 · 프로모션 대행, 연예인 · MC 섭외, 공연기획
+- 자격: 행사 안전관리자
+
+## 페이지
+- [회사소개](https://brizymedia.github.io/sg-comm/about.html): 대표 인사말, 회사 정보, 걸어온 길, 오시는 길
+- [하는 일](https://brizymedia.github.io/sg-comm/service.html): 세 분야, 행사대행 · 전문인력 기준가, 진행 순서
+- [보유 장비 · 렌탈](https://brizymedia.github.io/sg-comm/equipment.html): 음향 A~E세트(40만 원부터), 조명 A~E세트, 무대 10 · 20평형, LED 전광판 150~300인치, 중계카메라, 행사용품 12종 기준가
+- [현장 사진](https://brizymedia.github.io/sg-comm/portfolio.html): 기공식 · 준공식, 축제 · 공연, 포럼 · 시상식, 무대 디자인 시안
+- [견적문의 · 자주 묻는 질문](https://brizymedia.github.io/sg-comm/contact.html)
